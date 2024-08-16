@@ -1,6 +1,7 @@
 class A {
 
     int n = 8;
+    static String str = "Mohan";
 
     public void show(int number) {
         n = number;
@@ -42,5 +43,6 @@ public class InnerClass {
             }
         };
         obj.show(4);
+        System.out.println(A.str);
     }
 }
