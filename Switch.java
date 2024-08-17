@@ -39,16 +39,16 @@ class Switch {
     }
 }
 
-// one more new method is return statement in every case
-
-// int return = switch(){
-// case 1 -> 1
-// case 2 -> 2
-// }
+// more new method is return statement in every case
 
 // switch(){
 // case 1 -> return 1
 // case 2 -> return 2
+// }
+
+// int return = switch(){
+// case 1 -> 1
+// case 2 -> 2
 // }
 
 // if you want switch statement as expression and at the same time if I want to
